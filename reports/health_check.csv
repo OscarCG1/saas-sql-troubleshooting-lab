@@ -1,0 +1,6 @@
+incident_id,company_name,issue,status
+INC-001,DataFlow Systems,Inactive customer account,REVIEW REQUIRED
+INC-002,TechNova Solutions,Missing invoice,REVIEW REQUIRED
+INC-003,CloudBridge Ltd,Duplicate customer records,REVIEW REQUIRED
+INC-004,NextGen Analytics,Subscription status mismatch,REVIEW REQUIRED
+INC-005,DataFlow Systems,Payment/account mismatch,REVIEW REQUIRED
